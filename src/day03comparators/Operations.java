@@ -69,8 +69,7 @@ public class Operations {
 
 
         /*
-        Concetanation --> Birliştirme İşlemi
-
+        Concetanation --> Birleştirme İşlemi
          */
 
         String name = "Fatih";
