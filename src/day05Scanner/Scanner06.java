@@ -11,6 +11,5 @@ public class Scanner06 {
     İlk Rakam
      */
 
-
-
+    
 }
