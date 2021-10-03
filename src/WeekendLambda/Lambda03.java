@@ -24,5 +24,18 @@ public class Lambda03 {
         list1.add(9);
         list1.add(10);
 
+        sortedNatural(list1);
+
+    }
+
+
+    //Natural Order a göre sıralıyınız.
+
+    public static void sortedNatural(List<Integer> list){
+
+        list.
+                stream().
+                sorted().
+                forEach(t->System.out.print(t + " "));
     }
 }
